@@ -9,7 +9,7 @@
 
 - :seedling: Exploring Technical Code Writing.
 
-- :zap: In my free time, I listen to audio books related to self-help and travel around.
+- :zap: In my free time, I listen to audio books related to self-help and travel around as often as I get a chance.
 
 ---
 
