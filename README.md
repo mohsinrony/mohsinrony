@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 
- :telescope: I’m interested in working with software development |
+ :telescope: I’m interested in working with software development | Currently looking an internship!
 
  :seedling: Exploring Technical Code Writing.
 
