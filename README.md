@@ -7,11 +7,11 @@
 
 ## :telescope:  I’m interested in working with software development | Currently looking for an internship/ practical training placement!
 
-## :seedling: Exploring Technical Code Writing.
+### :seedling: Exploring Technical Code Writing.
 
-## :zap: In my free time, I listen to audio books related to self-help and travel around as often as I get a chance.
+### :zap: In my free time, I listen to audio books related to self-help and travel around as often as I get a chance.
 
-## ![](https://komarev.com/ghpvc/?username=your-github-mohsinrony&color=blue)
+# ![](https://komarev.com/ghpvc/?username=your-github-mohsinrony&color=blue)
 
 ---
 
