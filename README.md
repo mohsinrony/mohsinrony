@@ -11,6 +11,8 @@
 
 ### :zap: In my free time, I listen to audio books related to self-help and travel around as often as I get a chance.
 
+### Sports: I play Football, Board Games, Badminton and Cricket. 
+
 # ![](https://komarev.com/ghpvc/?username=your-github-mohsinrony&color=blue)
 
 ---
