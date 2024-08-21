@@ -5,7 +5,7 @@
 
 # :man_technologist: About Me :
 
-## :telescope:  I’m interested in working with software development | Currently looking for an internship/ practical training placement!
+## :telescope:  I’m interested in working with software development and UI/UX design | Currently looking for an internship/ practical training placement!
 
 ### :seedling: Exploring Technical Code Writing.
 
