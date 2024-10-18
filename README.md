@@ -3,9 +3,9 @@
 </div>
 ---
 
-# :man_technologist: About Me :
+## :man_technologist: About Me :
 
-## :telescope:  I’m interested in working with software development and UI/UX design | Currently looking for an internship/ practical training placement!
+### :telescope:  I’m interested in working with software development and UI/UX design | Currently looking for a job in frontend / backend developer position!
 
 ### :seedling: Exploring Technical Code Writing.
 
