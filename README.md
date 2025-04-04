@@ -1,25 +1,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
-## 
-<h2> :man_technologist: Hi! </h2>
+
+<h2> :man_technologist: Hi there! </h2>
 
 ### 
 
-:telescope:  I’m interested in working with software development and UI/UX design | Currently looking for a job in frontend / backend developer position!
+Software Developer | Open to Frontend & Backend Roles
+
+##
+
+<p>  Currently building my portfolio with backend & frontend technologies </p>
 
 ### 
 
-:seedling: Exploring Technical Code Writing.
+<p> Exploring Cloud Computing (AWS, DevOps, Cloud Practitioner) </p>
 
 ### 
 
-:zap: In my free time, I listen to audio books related to self-help and travel around as often as I get a chance.
+In my free time, I enjoy audiobooks, traveling, and sports (Football, Board Games, Badminton, Cricket).
 
 ### 
 
-<p> Sports: I play Football, Board Games, Badminton and Cricket. </p>
+Check out my pinned projects! Let’s connect.
 
 # ![](https://komarev.com/ghpvc/?username=your-github-mohsinrony&color=blue)
 
