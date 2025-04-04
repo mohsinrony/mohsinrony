@@ -4,25 +4,17 @@
 
 <h2> :man_technologist: Hi there! </h2>
 
-### 
+### Software Developer | Open to Frontend & Backend Roles
 
-Software Developer | Open to Frontend & Backend Roles
-
-##
-
+## 
 <p>  Currently building my portfolio with backend & frontend technologies </p>
 
 ### 
-
 <p> Exploring Cloud Computing (AWS, DevOps, Cloud Practitioner) </p>
 
 ### 
-
 In my free time, I enjoy audiobooks, traveling, and sports (Football, Board Games, Badminton, Cricket).
 
-### 
-
-Check out my pinned projects! Let’s connect.
 
 # ![](https://komarev.com/ghpvc/?username=your-github-mohsinrony&color=blue)
 
