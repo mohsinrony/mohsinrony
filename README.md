@@ -20,7 +20,7 @@ In my free time, I enjoy audiobooks, traveling, and sports (Football, Board Game
 
 ---
 ### 🌐 Developer Portfolio  
-<a href="https://developer-portfolio-mohsin.netlify.app/" target="_blank" rel="noopener noreferrer">Visit my website</a>
+[Visit my website](https://developer-portfolio-mohsin.netlify.app/)
 <!---
 mohsinrony/mohsinrony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
